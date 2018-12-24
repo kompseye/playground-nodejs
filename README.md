@@ -1,1 +1,2 @@
-# playground-nodejs
+# About
+Tinkering with Node.js...

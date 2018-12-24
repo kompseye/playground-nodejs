@@ -1,0 +1,9 @@
+# Ignore...
+
+# Mac Stuff
+.DS_Store
+
+# IDE Stuff
+*.code-workspace*
+
+
