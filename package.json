@@ -1,0 +1,23 @@
+{
+  "name": "playground-nodejs",
+  "version": "1.0.0",
+  "description": "Snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js web-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kompseye/playground-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kompseye/playground-nodejs/issues"
+  },
+  "homepage": "https://github.com/kompseye/playground-nodejs#readme",
+  "devDependencies": {
+    "eslint": "^5.11.0"
+  }
+}

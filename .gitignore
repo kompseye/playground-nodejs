@@ -6,4 +6,6 @@
 # IDE Stuff
 *.code-workspace*
 
+# Git Stuff
+node_modules
 
