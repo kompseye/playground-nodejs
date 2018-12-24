@@ -18,6 +18,6 @@ With Node.js, the simplest web server is a few lines of code!
 Use ESLint for consistent use of language features and patterns.
 1. Follow [these](https://www.npmjs.com/package/eslint) instructions
 1. Track Node.js [compatability](https://node.green/) with ECMAScript (ES) versions, i.e. ES2015 (ES6), ES2016
-1. 
+1. Run linter with `npm run lint`
 
 
